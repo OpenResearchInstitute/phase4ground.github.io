@@ -29,8 +29,14 @@ github_username:  phase4ground
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
+
+header_pages:
+  - faq.markdown
+  - github.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
