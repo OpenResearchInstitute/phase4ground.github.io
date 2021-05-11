@@ -57,3 +57,10 @@ Most communication is carried out via mailing list and Slack.
 ## Slack
 
 Day-to-day work is carried out on our Slack account, which you can join by emailing [Michelle Thompson w5nyv](mailto:mountain.michelle+phase4website@gmail.com).
+
+## Trello
+
+Links to join our Trello boards are below. This is where project tasks are added, managed, and closed out.
+
+* [Join Phase 4 Ground Trello board](https://trello.com/invite/b/REasyYiZ/8de4c059e252c7c435a1dafa25f655a8/phase-4-ground)
+* [Join Phase 4 Space Trello board](https://trello.com/invite/b/GRBWasqW/1336a1fa5b88b380c27ccf95d21fec79/phase-4-space)
