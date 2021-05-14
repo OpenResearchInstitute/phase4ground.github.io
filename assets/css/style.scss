@@ -6,3 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+img.sponsorlogo {
+    height: 4em;
+    background-color: white;
+}

@@ -7,7 +7,10 @@ permalink: /join.html
 ## Github
 All [documents](/docs/), software, and resources can be found in our two organizational Github accounts.
 
-Most of the things you're likely to be looking for are in [phase4ground](https://github.com/phase4ground). Some of the items specific to the space segment are in [phase4space](https://github.com/phase4space).
+The project is divided between two organizational accounts on Github:
+* [phase4ground](https://github.com/phase4ground) contains protocol implementations, design documents, and other repositories related either to the ground segment or that affect both the ground and space components.
+* [phase4space](https://github.com/phase4space) has items which are specific to the space segment, such as the Phase 4 digital multiplexing transponder [design](https://github.com/phase4space/p4xdmt) and [prototype](https://github.com/phase4space/p4xdmt_hw_protoype).
+
 
 Github sorts the most recently updated repositories to the top. Most repositories have a single lead contributor, and you can find out who that person is by clicking on the list of commits.
 

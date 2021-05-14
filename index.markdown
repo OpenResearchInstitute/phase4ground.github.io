@@ -48,4 +48,12 @@ processing world right now, and especially being part of the
 explosions of digital communications, is an adventure well worth your
 time. Yes, it's hard work, but it's completely worth it!
 
+# Acknowledgements
 
+Phase 4 is a project of [Open Research Institute](https://www.openresearch.institute). ORI's [affiliations are listed here](https://www.openresearch.institute/affiliations/).
+
+The Phase 4 project is grateful for support by grants from the following organizations:
+
+[<img src="/assets/ARDC_logo.png" alt="ARDC logo" class="sponsorlogo" />](https://www.ampr.org)
+[<img src="http://www.yasme.org/wp-content/uploads/2016/07/yasme-banner-6.gif" alt="The Yasme Foundation logo" class="sponsorlogo"/>](http://www.yasme.org)
+[<img src="http://www.arrl.org/files/image/Get_Involved/NEW-ARRL-Foundation-Logo-WEB_jpg.gif" alt="ARRL Foundation" class="sponsorlogo"/>](http://www.arrl.org/the-arrl-foundation)
