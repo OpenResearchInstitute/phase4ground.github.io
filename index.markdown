@@ -11,8 +11,9 @@ title: Home
 Phase 4 is an open source amateur radio project. Our goal is to
 provide both designs and equipment for a radio that will operate with
 a 5GHz uplink and a 10GHz downlink. Our mission is to provide an open
-source implementation of [DVB-S2](https://www.dvb.org/standards/dvb-s2)
-and [DVB-S2X](https://www.dvb.org/standards/dvb-s2x) for both satellite
+source [implementation](https://github.com/phase4ground/dvb_fpga) of
+[DVB-S2](https://www.dvb.org/standards/dvb-s2) and
+[DVB-S2X](https://www.dvb.org/standards/dvb-s2x) for both satellite
 and terrestrial amateur radio use. The reference design will be in
 [GNU Radio](https://www.gnuradio.org/), and a variety of radio
 recipes will be published. These solutions range from DIY to something
@@ -47,21 +48,4 @@ processing world right now, and especially being part of the
 explosions of digital communications, is an adventure well worth your
 time. Yes, it's hard work, but it's completely worth it!
 
-# Join the Team
 
-Most communication is carried out via mailing list and Slack.
-
-## Mailing list
-
-[Subscribe to the Ground-Station mailing list](http://lists.openresearch.institute/listinfo.cgi/ground-station-openresearch.institute), hosted by the [Open Research Institute](https://openresearch.institute/).
-
-## Slack
-
-Day-to-day work is carried out on our Slack account, which you can join by emailing [Michelle Thompson w5nyv](mailto:mountain.michelle+phase4website@gmail.com).
-
-## Trello
-
-Links to join our Trello boards are below. This is where project tasks are added, managed, and closed out.
-
-* [Join Phase 4 Ground Trello board](https://trello.com/invite/b/REasyYiZ/8de4c059e252c7c435a1dafa25f655a8/phase-4-ground)
-* [Join Phase 4 Space Trello board](https://trello.com/invite/b/GRBWasqW/1336a1fa5b88b380c27ccf95d21fec79/phase-4-space)

@@ -35,8 +35,9 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - join.markdown
+  - docs.markdown
   - faq.markdown
-  - github.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
