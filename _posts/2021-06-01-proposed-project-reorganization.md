@@ -24,19 +24,21 @@ The receive and transmit code ought also be combined. And if there are Jupyter n
 
 ### Issue trackers and to-do lists
 
-The current generic onboarding process might look like this:
+The current generic onboarding process looks a little like this:
+
+![Illustration of the below steps](/assets/blog/issue_flow.png)
 
 1. Interested person discovers the project and requests to join Slack, then waits to be added.
 2. Interested person asks on Slack what needs doing, and waits around for someone to answer.
 3. Interested person checks out the code and starts working on the thing but realizes they don't fully understand the requirements, and then has to wait for more answers.
 4. Repeat steps 2-4.
+5. The person either completes or abandons the task.
 
 This is a discouraging process. Few people make it through the gauntlet. We want it to look like this instead:
 
-1. Interested person discovers the project and requests to join Slack, but in the meantime glances around the phase4radio account and sees that there's an active project with an up-to-date issue tracker.
-2. Interested person comments on an issue to say they're working on it, checks out the code, and gets to work.
-3. Interested person submits their pull request.
-4. Repeat steps 2-3.
+![Illustration of the below improved steps, which is much simpler than the earlier illustration](/assets/blog/better_issue_flow.png)
+
+In this case, the person joins Slack and starts working on a task in parallel. In addition, they log their progress in the issue tracker so that if they abandon the task, someone else can pick up from where they left off.
 
 The lower the barriers to entry, the more people we'll recruit.
 
